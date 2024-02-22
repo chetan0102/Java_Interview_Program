@@ -1,4 +1,4 @@
-package com.arrayscodesprogram;
+package com.programArrays;
 
 public class SecondLargestNumberIntegerArray {
 

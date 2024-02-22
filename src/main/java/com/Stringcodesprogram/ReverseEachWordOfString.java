@@ -1,4 +1,4 @@
-package com.stringcodesprogram;
+package com.Stringcodesprogram;
 
 public class ReverseEachWordOfString {
 

@@ -1,4 +1,4 @@
-package com.singletoneprogram;
+package com.Singletoneprogram;
 
 class Singleton {
     // Static variable reference of single_instance

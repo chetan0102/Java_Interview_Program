@@ -1,4 +1,4 @@
-package com.stringcodesprogram;
+package com.Stringcodesprogram;
 
 import java.util.HashMap;
 import java.util.Set;
